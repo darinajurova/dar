@@ -1,0 +1,22 @@
+body {
+  width: 1360px;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+}
+
+section {
+  width: 980px;
+  height: 780px;
+  margin: auto;
+  background-image: url("../img/Flowers\ \(1\).png");
+  background-repeat: no-repeat;
+  background-position: right top 49px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 66px;
+
+}
